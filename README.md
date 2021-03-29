@@ -8,4 +8,9 @@ Note:
 ### Third run face_3.py, it will load the best saved model and use it to predict the two given images.
 ```
 Here, we have not used data augmentation technique.
+
+```
+## Download the dataset from the given link:
+```
+https://drive.google.com/drive/folders/15xxHLDvcNXRgEuqCz4YMFqaepinUITrg?usp=sharing
 ```
